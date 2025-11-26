@@ -116,12 +116,13 @@ Copy code
 ```python
 df = pd.read_csv("data/amazon.csv")
 
-👤 Author
-Ayush Mane
-Aspiring Data Analyst
-📧 ayushmane.data@gmail.com
-🌐 LinkedIn: https://www.linkedin.com/in/ayush-mane
-💻 GitHub:[ https://github.com/ayuicy1800-debug](https://github.com/ayuicy1800-debug)
+## 👤 Author  
+**Ayush Mane**  
+Aspiring Data Analyst  
 
-⭐ If you found this project useful
-Give this repository a star ⭐ and feel free to connect with me on LinkedIn.
+📧 Email: ayushmane.data@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/ayush-mane  
+💻 GitHub: https://github.com/ayuicy1800-debug  
+
+⭐ If you found this project useful, give the repository a star!
+
