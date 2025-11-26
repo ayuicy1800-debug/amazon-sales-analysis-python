@@ -108,12 +108,10 @@ Copy code
 
 4. Open the file:
 amazon_sales_analysis.ipynb
-
-bash
 Copy code
 
 5. Make sure the dataset path is:
-```python
+python
 df = pd.read_csv("data/amazon.csv")
 
 ## 👤 Author
@@ -121,9 +119,13 @@ df = pd.read_csv("data/amazon.csv")
 **Ayush Mane**  
 Aspiring Data Analyst  
 
-📧 Email: [ayushmane.data@gmail.com](mailto:ayushmane.data@gmail.com)  
-🔗 LinkedIn: [Visit my profile](https://www.linkedin.com/in/ayush-mane)  
-💻 GitHub: [My GitHub](https://github.com/ayuicy1800-debug)  
+📧 Email: ayushmane.data@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/ayush-mane  
+💻 GitHub: https://github.com/ayuicy1800-debug  
 
 ⭐ If you found this project useful, give this repository a star and feel free to connect with me on LinkedIn.
+
+
+
+
 
