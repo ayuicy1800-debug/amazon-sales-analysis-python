@@ -1,3 +1,6 @@
+🔗 Live Repository: https://github.com/ayuicy1800-debug/amazon-sales-analysis-python
+
+
 # 📊 Amazon Sales Data Analysis (Python)
 
 This project focuses on analyzing Amazon sales data using Python to extract meaningful insights, identify trends, and support data-driven decision-making. The analysis includes data cleaning, preprocessing, exploratory data analysis (EDA), and visualization.
